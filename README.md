@@ -48,6 +48,7 @@ Diseñar, normalizar, programar y consultar de forma avanzada el sistema de info
 
 Cada célula de trabajo clonará el repositorio base provisto por la cátedra y subirá su avance respetando estrictamente esta estructura:
 
+```text
 biblioteca-fei/
 ├── README.md                                     # Guía general del proyecto, equipo, requisitos y flujo de ejecución
 ├── .gitignore                                    # Archivos temporales, credenciales y configuraciones locales
@@ -91,7 +92,7 @@ biblioteca-fei/
 │
 └── 04_entrega_final/                             # Fase 6: Cierre del proyecto (6 puntos)
     └── reporte-final.pdf                           # Documento integrador oficial del equipo
-
+```
 ---
 
 ## Flujo de Trabajo Recomendado
