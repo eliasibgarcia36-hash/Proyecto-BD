@@ -1,0 +1,1 @@
+-- Obligatorio: atributos camelCase, iniciando con minúscula.
